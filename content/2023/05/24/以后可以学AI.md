@@ -1,5 +1,5 @@
 ---
-title: You can learn AI later
+title: You can learn AI later --- 以后可以学AI
 date: 2023-05-24T21:30:02+08:00
 updated: 2023-05-24T21:30:02+08:00
 taxonomies:
