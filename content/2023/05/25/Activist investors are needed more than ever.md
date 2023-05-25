@@ -1,5 +1,5 @@
 ---
-title: Activist investors are needed more than ever --- 比以往任何时候都更需要维权投资者
+title: Activist investors are needed more than ever
 date: 2023-05-25T10:20:26+08:00
 updated: 2023-05-25T10:20:26+08:00
 taxonomies:
@@ -13,24 +13,31 @@ extra:
 ---
 
 Little scares the C\-suite like shareholder activism. Bosses stay awake worrying about a call, a letter or a 100-page presentation in which a hedge fund outlines the depths of their ineptitude. At the start of the year executives were especially on edge. During this year’s annual “proxy season”—a succession of shareholder meetings—they have mostly avoided votes on dissident nominees to their boards. Nevertheless in recent months some of the world’s largest firms—including Alphabet, Bayer, Disney and Salesforce—have had to tussle with activists, who are increasingly focused on the biggest companies. A battle between Carl Icahn, a prominent activist, and Illumina, a genomics giant, is set to come to a head on May 25th.  
+
 很少有人像股东激进主义那样吓到最高管理层。老板们担心一个电话、一封信或一份 100 页的演示文稿，其中一家对冲基金概述了他们的无能深度。今年年初，高管们尤其紧张。在今年的年度“代理季”——一连串的股东大会——他们大多避免对持不同政见的董事会候选人进行投票。然而，近几个月来，一些世界上最大的公司——包括 Alphabet、拜耳、迪士尼和 Salesforce——不得不与越来越关注大公司的激进主义者发生争执。著名活动家卡尔·伊坎 (Carl Icahn) 与基因组学巨头 Illumina 之间的较量定于 5 月 25 日达到白热化。
 
 Activist hedge funds are often seen as villains who are nasty, brutish and focused on the short term. Sometimes the shoe fits. But more often activists are playing a role that is essential for shareholder capitalism. For several reasons, their campaigns are increasingly important.  
+
 维权对冲基金通常被视为恶棍，他们下流、野蛮并且只关注短期利益。有时鞋子合脚。但更常见的是，积极分子正在发挥对股东资本主义至关重要的作用。由于多种原因，他们的竞选活动越来越重要。
 
 ![](https://www.economist.com/img/b/608/468/90/media-assets/image/20230527_LDC326.png)
 
 One is the rise of passive investing, which attempts to replicate the returns of an index rather than surpass them. Only one in three dollars invested by institutions in America’s thousand largest public companies is actively allocated, according to Man Group, an investment firm. The biggest passive asset-managers, such as BlackRock, charge low fees and run lean investment-stewardship teams which are not designed to spot empire-building bosses or lazy boards. The result is an increasingly idle corporate electorate. Efforts to enfranchise the ultimate owners of funds are unlikely to solve the problem. They typically want to earn returns but leave the decision-making to somebody else.  
+
 一是被动投资的兴起，它试图复制指数的回报而不是超越它们。根据投资公司 Man Group 的数据，机构投资于美国最大的 1000 家上市公司的资金中，只有三分之一是主动分配的。最大的被动资产管理公司，如贝莱德，收取低廉的费用并运行精简的投资管理团队，这些团队并非旨在发现建立帝国的老板或懒惰的董事会。结果是越来越无所事事的企业选民。为基金的最终所有者授予选举权的努力不太可能解决问题。他们通常希望获得回报，但将决策权留给其他人。
 
 There are other channels by which bosses’ feet might be held to the fire. Since the 1980s leveraged buy-outs by private-equity firms have been a persistent threat to underperforming executives. The easiest way to deter a hostile takeover is to raise your company’s share price. Today, however, the buy-out industry is roiling from the effects of higher interest rates, and is unlikely to recover fully for some time.  
+
 还有其他渠道可以让老板的脚着火。自 1980 年代以来，私募股权公司的杠杆收购一直是对业绩不佳的高管的持续威胁。阻止敌意收购的最简单方法是提高公司的股价。然而，如今，收购行业正受到高利率的影响，并且在一段时间内不太可能完全恢复。
 
 While the routes by which managers are held to account have shrunk, the need to boost profits by applying discipline has grown. When interest rates were low, large technology firms hired aggressively and expanded into peripheral lines of business. Now profits are more important than growth. Over the past decade the demand for managers to respond to environmental, social and governance (esg) concerns has also grown. Some shareholders campaign for esg—as is their right—but the danger of firms losing focus and wasting money as they are drawn into politics has increased.  
+
 虽然追究管理人员责任的途径已经缩小，但通过应用纪律来增加利润的需求却在增长。当利率较低时，大型科技公司积极招聘并扩展到外围业务领域。现在利润比增长更重要。在过去十年中，对管理者回应环境、社会和治理 (ESG) 问题的需求也在增长。一些股东为 ESG 运动——这是他们的权利——但公司因卷入政治而失去焦点和浪费资金的危险增加了。
 
 In such an environment the presence of activists is a welcome reminder that it is owners, not managers, in whose interest firms should be run. And because dealmaking is down, activists will be more likely to improve a firm’s operations than force it to sell itself in search of a quick buck. That should assuage the fears of those who see activists as corporate cowboys rather than drivers of efficiency.  
+
 在这样的环境中，积极分子的存在是一个值得欢迎的提醒，即企业的运营应该为所有者而不是管理者的利益着想。而且由于交易减少，维权人士更有可能改善公司的运营，而不是迫使公司出售自己以快速赚钱。这应该会减轻那些将积极分子视为企业牛仔而不是效率驱动者的恐惧。
 
 Fortunately, the job of activists is getting easier. New rules that came into force in America last September should make it easier for them to obtain board seats by letting shareholders vote for candidates individually, rather than as a bloc. The wave of nail-biting shareholder votes some expected to follow immediately has not yet materialised. But more battles between activists and complacent managers would be no bad thing. ■  
+
 幸运的是，活动家的工作越来越容易了。去年 9 月在美国生效的新规则应该让股东更容易获得董事会席位，方法是让股东单独而非集体投票选举候选人。一些人预计会立即紧随其后的股东投票浪潮尚未实现。但是激进主义者和自满的管理者之间更多的斗争并不是坏事。 ■

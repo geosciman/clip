@@ -1,0 +1,77 @@
+---
+title: Why China fears Starlink
+date: 2023-05-25T10:32:25+08:00
+updated: 2023-05-25T10:32:25+08:00
+taxonomies:
+  tags: 
+extra:
+  source: https://www.economist.com/china/2023/05/18/why-china-fears-starlink
+  hostname: www.economist.com
+  author: 
+  original_title: Why China fears Starlink
+  original_lang: en
+---
+
+[China](https://www.economist.com/china/) | A new mandate in the heavens  
+中国 |天上的新任务
+
+## And why it wants to build its own satellite constellation in low-Earth orbit  
+以及为什么要在近地轨道上建立自己的卫星星座
+
+May 18th 2023 | TAIPEI 2023 年 5 月 18 日 |台北
+
+Beware of Starlink, says the People’s Liberation Army (PLA). The mega-constellation of satellites, designed to provide off-grid high-bandwidth internet access, is run by SpaceX, a private American firm. But officials in Washington are surely taking advantage of it, warns the _Liberation Army_ _Daily_. When Starlink was made available to Ukraine last year, after Russia’s invasion of the country, the army’s newspaper called it an “accomplice” of the “hegemony-obsessed US”. Never mind that it was Ukraine that asked SpaceX for help.  
+
+人民解放军 (pla) 表示，当心星链。这个巨型卫星群旨在提供离网高带宽互联网接入，由美国私营公司 Spacex 运营。但《解放军报》警告说，华盛顿的官员肯定会利用这一点。去年俄罗斯入侵该国后，乌克兰向乌克兰提供 Starlink 时，军队的报纸称其为“霸权痴迷的我们”的“帮凶”。没关系，是乌克兰向 Spacex 求助。
+
+Starlink has been vital to Ukraine’s war effort. The satellite links have allowed soldiers to communicate, identify targets and upload videos for the world to see. The system is hard to jam. From the perspective of China, this not only puts its friend Russia at a disadvantage, it also raises concerns about Taiwan, the self-governing island that China claims. If Taiwan were given access to Starlink, it would make a Chinese invasion that much more difficult.  
+
+Starlink 对乌克兰的战争努力至关重要。卫星链路使士兵能够进行交流、识别目标并上传视频供全世界观看。系统很难卡住。从中国的角度来看，这不仅使其朋友俄罗斯处于不利地位，还引发了对台湾这个中国声称拥有主权的自治岛屿的担忧。如果台湾获得了 Starlink 的访问权，那将使中国的入侵变得更加困难。
+
+But China’s concerns go beyond that. It fears that America, through Starlink, is gobbling up territory in low-Earth orbit. China, too, wants to be a power in this domain. And it wants the capabilities offered by systems like Starlink. So it is working on a version of its own.  
+
+但中国的担忧不止于此。它担心美国通过 Starlink 吞并近地轨道的领土。中国也想成为这个领域的强国。它想要 Starlink 等系统提供的功能。所以它正在开发自己的版本。
+
+## Cutting the cord 切断电源线
+
+When it comes to Taiwan, analysts think China, were it to invade, might start by severing the 14 undersea internet cables that keep the island connected to the world. Taiwan is adding cables and planning how to defend their landing points. But it is also testing antennae in 700 locations, including some outside Taiwan. These would be able to send and receive signals by means of satellites in low orbit, like the ones Starlink uses. The goal is to make the antennae “as mobile as possible” to survive an attack, says Tzeng Yisuo of the Institute for National Defence and Security Research, a think-tank in Taiwan.  
+
+谈到台湾，分析人士认为，如果中国入侵，可能会首先切断使该岛与世界保持联系的 14 条海底互联网电缆。台湾正在增加电缆并计划如何保卫他们的着陆点。但它也在 700 个地点测试天线，包括台湾以外的一些地点。这些将能够通过低轨道卫星发送和接收信号，就像 Starlink 使用的那样。台湾智库国防与安全研究所的 Tzeng Yisuo 说，目标是让天线“尽可能移动”以在攻击中幸存下来。
+
+China has the capability to shoot down satellites. But Starlink is made up of over 4,000 of them and aims eventually to have tens of thousands. China might have more success leaning on SpaceX’s founder, Elon Musk, to deny Taiwan access to Starlink. Mr Musk’s other big firm, Tesla, has a large factory in Shanghai. Last year he suggested giving China some control over Taiwan in order to resolve their dispute. (SpaceX lists Taiwan as a place where Starlink is “coming soon”, but the firm has not applied to operate there on a commercial basis.)  
+
+中国有能力击落卫星。但 Starlink 由 4,000 多个组成，最终目标是拥有数万个。依靠 Spacex 的创始人埃隆·马斯克 (Elon Musk) 拒绝台湾访问 Starlink，中国可能会取得更大的成功。马斯克的另一家大公司特斯拉在上海有一家大型工厂。去年他建议让中国对台湾有一定的控制权，以解决他们的争端。 （Spacex 将台湾列为 Starlink“即将推出”的地方，但该公司尚未申请在那里进行商业运营。）
+
+Unsurprisingly, Taiwan is looking to reduce its dependence on others. Its space agency is developing its own low-orbit communication satellites. The first is expected to be launched in 2025.  
+
+不出所料，台湾正在寻求减少对其他国家的依赖。它的航天局正在开发自己的低轨道通信卫星。第一个预计将于 2025 年推出。
+
+China’s low-orbit ambitions are much larger. In 2020 the government filed papers with the International Telecommunication Union, a UN body, for a 12,992-satellite constellation. A year later the government established China Satellite Networks Group Limited and tasked it with developing satellite internet. At least seven state-owned and private Chinese companies are building satellite factories, with the expectation that they will soon be able to produce several hundred small communications satellites per year.  
+
+中国的低轨道雄心要大得多。 2020 年，政府向联合国机构国际电信联盟提交了关于由 12,992 颗卫星组成的星座的文件。一年后，政府成立了中国卫星网络集团有限公司，并委托其发展卫星互联网。至少有七家中国国有和私营公司正在建设卫星工厂，预计它们很快就能每年生产数百颗小型通信卫星。
+
+Officials in Beijing have developed a space-race mentality. Specific orbits and radio frequencies are “rare strategic resources” that Starlink wants to “monopolise”, warned the _Liberation Army Daily_ in 2022. Last year Wu Yansheng, the chairman of China’s main space contractor, said his country needed to move faster in becoming a “space power”. In April the prime minister, Li Qiang, toured three startups in order to highlight the importance of their industries. One was Galaxy Space, a maker of satellites, six of which were launched into low orbit last year.  
+
+北京的官员已经养成了太空竞赛的心态。解放军报在 2022 年警告称，特定轨道和无线电频率是星链想要“垄断”的“稀有战略资源”。 “空间力量”。 4 月，总理李强视察了 3 家初创公司，以强调其行业的重要性。其中之一是 Galaxy Space，一家卫星制造商，去年将其中六颗卫星发射到低轨道。
+
+Much of the recent activity stems from the desire of Xi Jinping, China’s supreme leader, to modernise the PLA. His generals have long studied how America uses communications and information tools to move faster and see more clearly on the battlefield. Mr Xi wants to create a highly “informatised” force, one that is able to use information technology to conduct joint operations across the ground, air and sea—not to mention space and cyberspace.  
+
+最近的许多活动都源于中国最高领导人习近平实现人民解放军现代化的愿望。他手下的将军们长期以来一直在研究美国如何利用通信和信息工具在战场上更快地行动并看得更清楚。习近平希望打造一支高度“信息化”的部队，能够利用信息技术进行陆海空联合作战——更不用说太空和网络空间了。
+
+## The crowded sky 拥挤的天空
+
+China will have plenty of neighbours in low orbit beyond SpaceX. The British government owns a stake in OneWeb, which is about to finish a constellation involving 650 satellites. Kuiper, a planned constellation bankrolled by Jeff Bezos, the founder of Amazon, is due to launch its first test satellites soon. The EU is planning its own system, as is Russia. For the world’s powers, satellite internet may come to be seen as a strategic capability, much like satellite navigation, necessitating some level of sovereign control.  
+
+除了 Spacex，中国在低轨道上还有很多邻居。英国政府拥有 OneWeb 的股份，OneWeb 即将完成一个涉及 650 颗卫星的星座。由亚马逊创始人杰夫贝佐斯资助的计划中的星座 Kuiper 将很快发射其第一颗测试卫星。欧盟正在规划自己的系统，俄罗斯也是如此。对于世界大国来说，卫星互联网可能会被视为一种战略能力，就像卫星导航一样，需要一定程度的主权控制。
+
+SpaceX has an important advantage. Satellites in low orbit don’t last very long, so the company replaces them on a regular basis. That entails a large number of rocket launches (one is pictured here). SpaceX has the world’s best system for that, the partially reusable Falcon 9 rocket. Now it is working on a much larger, fully reusable spacecraft called Starship which could launch hundreds of satellites at a time. Some Chinese companies appear to be trying to build knock-offs.  
+
+Spacex 有一个重要的优势。低轨道卫星不会持续很长时间，因此公司会定期更换它们。这需要进行大量火箭发射（如图所示）。 Spacex 拥有世界上最好的系统，即部分可重复使用的猎鹰 9 号火箭。现在它正在研究一种更大的、完全可重复使用的航天器，称为星际飞船，它可以一次发射数百颗卫星。一些中国公司似乎正试图制造仿冒品。
+
+All of the activity worries China. The _Liberation Army Daily_ complains that there is only room for 50,000 satellites in low-Earth orbit and that Starlink may eventually take up more than 80% of that space. But the calculation is not that straightforward, says Juliana Suess of the Royal United Services Institute, a think-tank in Britain. Imagine low orbit as a highway, she says. What needs to be calculated is how many moving cars that highway can safely accommodate. Much will depend on the size of satellites and their trajectories.  
+
+所有这些活动都让中国感到担忧。 《解放军报》抱怨说，近地轨道上只有 5 万颗卫星的空间，而星链最终可能会占据该空间的 80% 以上。但英国智库皇家联合服务研究所的朱莉安娜苏斯说，计算并不是那么简单。她说，将低轨道想象成一条高速公路。需要计算的是这条高速公路能安全容纳多少辆行驶中的汽车。很大程度上取决于卫星的大小及其轨道。
+
+In 2021 two satellites from Starlink were on a collision course with a Chinese space station, forcing it to move. So says China, at least. America denies the allegation. It is possible that the two powers use different methods to calculate orbits, says Benjamin Silverstein of the Carnegie Endowment for International Peace, a think-tank in America. They might also have different views on what is too close for comfort. What is clear is that a lack of communication exacerbated the problem, as did a lack of norms surrounding traffic in low orbit. America and China used to talk about these things, but there have been no such meetings since 2017. That’s dangerous. As low orbit gets more crowded, the chance of a nasty collision is growing. ■  
+
+2021 年，来自 Starlink 的两颗卫星与中国空间站相撞，迫使其移动。至少中国是这么说的。美国否认这一指控。美国智库卡内基国际和平基金会的本杰明西尔弗斯坦说，这两个大国可能使用不同的方法来计算轨道。他们也可能对距离太近而不舒适有不同的看法。很明显，缺乏沟通加剧了这个问题，缺乏低轨道交通规范也是如此。美国和中国过去常常谈论这些事情，但自 2017 年以来就没有举行过此类会议。这很危险。随着低轨道变得越来越拥挤，发生严重碰撞的可能性也在增加。 ■
