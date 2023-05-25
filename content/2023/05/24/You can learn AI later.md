@@ -1,5 +1,5 @@
 ---
-title: You can learn AI later --- 以后可以学AI
+title: You can learn AI later
 date: 2023-05-24T21:30:02+08:00
 updated: 2023-05-24T21:30:02+08:00
 taxonomies:
@@ -11,14 +11,6 @@ extra:
   original_title: You can learn AI later
   original_lang: en
 ---
-
-[![](avatar-20230413145313000000-2745081.png)
-
-Jason Fried
-
-](https://world.hey.com/jason)
-
-May 10, 2023  2023 年 5 月 10 日
 
 Throw a dart on LinkedIn, or toss one into the ether on Twitter, and you'll likely hit a post proclaiming that you better "learn AI" or you're falling behind.  
 在 LinkedIn 上扔一个飞镖，或者在 Twitter 上扔一个飞镖，你很可能会看到一个帖子，宣称你最好“学习 AI”，否则你就落后了。
