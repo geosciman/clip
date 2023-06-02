@@ -1,5 +1,5 @@
 ---
-title: 保姆级学习指南 | 0基础入门AI，看这篇就够了（强烈建议收藏）
+title: 零基础入门AI
 date: 2023-05-31T21:19:05+08:00
 updated: 2023-05-31T21:19:05+08:00
 taxonomies:
@@ -48,7 +48,7 @@ ChatGPT到底是什么？AI会取代我们的工作吗？我们能用ChatGPT来�
 
 以及关于我第二期课程的预告。话不多说，让我们正式进入到今天的分享。
 
-## **|****_一、Prompt魔术师：玩转AI的戏法——Trick法则_**
+## **|_一、Prompt魔术师：玩转AI的戏法——Trick法则_**
 
 在讲Prompt之前，我们需要先理解ChatGPT划时代的意义及其原理。比尔盖茨曾说：在我的一生中，见过两次印象深刻的革命性的技术演示。
 
@@ -86,7 +86,7 @@ ChatGPT的全称是"chat Generative Pre-trained Transformer"，翻译成中文�
 
 即谷歌在2017年提出的Transformer神经网络模型。Transformer模型能够在处理自然语言时很好地捕捉上下文的语义关系。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSUoHod65Kxr8qxyiaibB5GoORicu4P8fE0VsHuEYddvAiajiaXNjiaDIibdtibg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 在ChatGPT中，模型会利用大量的语料库进行训练，当前的GPT-3拥有1750亿个参数。
 
@@ -114,7 +114,7 @@ ChatGPT的全称是"chat Generative Pre-trained Transformer"，翻译成中文�
 
 在AI时代，作为个体，掌握Prompt的用法，就能快速掌握AI在应用层的一些能力，帮助我们在工作生活中提升效率，增强个体竞争力。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSCKsCuWPyMWmvV5IUTc8Aib53OG1ykBx5Vkic8yV3AfpfWgHgWkv2g64Q/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 提示工程师（Prompt Engineer）是一个相对新的职业领域，它是由人工智能语言模型的发展而出现的。
 
@@ -136,7 +136,7 @@ ChatGPT的全称是"chat Generative Pre-trained Transformer"，翻译成中文�
 
 **我总结了一个Trick法则，将Prompt拆解5个要素，帮助初学者快速掌握Prompt的用法。**通过对要素的排列组合，构造一个相对完善的提示文本，从而获取最佳反馈。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSkKU8wwP9lzKm6Y5PVYgddqVeXJLQBNtNrficOXNiapwRnDfntwD95ia0w/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **Trick取自五个要素的首字母，这个单词本身也有“戏法”的含义，如果将ChatGPT当做是一个盲盒，那么prompt就是开启盲盒的钥匙。**大家作为未来的提示工程师 （Prompt Engineer），当然要掌握一些巧妙的戏法。
 
@@ -164,7 +164,7 @@ ChatGPT的全称是"chat Generative Pre-trained Transformer"，翻译成中文�
 
 接下来，我以一个撰写短信文案的提示工程为例，详细介绍Trick法则的用法。通过不断叠加要素，最终得到一个理想的反馈结果。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSg3DKPuib94bh4icucSibtPOjW4oSA1EjzibYKHNqg5NGpMY5LqPrmdHbqA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 这里我将要素从上到下依次排列。首是任务（task）第一句“请生成一条生日祝福短信”。
 
@@ -219,7 +219,7 @@ ChatGPT的价值，很大程度上是取决于提示文本（Prompt）的质量�
 
 ___
 
-## **|****_二、ChatGPT学习篇：高效获取90%开源资料库_**
+## **|_二、ChatGPT学习篇：高效获取90%开源资料库_**
 
 第二部分我相信很多朋友会比较感兴趣，平时我都会在我的社群还有星球里面发很多的报告资料，也会有朋友来找我帮他们找资料。  
 
@@ -227,7 +227,7 @@ ___
 
 核心的原理是利用ChatGPT寻找信息源，然后借助Google Hacking的搜索技巧顺藤摸瓜，去伪存真，抽丝剥茧地找到有价值的资源。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwS7KJNxJO5HKEaPgemzJCMfUHBA1DfWBeicmKTiavAAH51ZC3QhgwicU9Vg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 通过这个逻辑图大家就会发现，最顺利的路径当然是ChatGPT能够直接提供真实有价值的资料。
 
@@ -266,16 +266,16 @@ Google hacking（谷歌黑客）是一种使用Google搜索引擎的高级搜索
 接下来我以实际的案例来演示一下如何能快速的去定位到我们想要的资料。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-
+![视频](http://mpvideo.qpic.cn/0b2eziaaqaaaqyah6bdlofsfbswdbdfaacaa.f10002.mp4?dis_k=9df83f73d672763ea097807acf1d4ddc&dis_t=1685714185&play_scene=10120&auth_info=ZoqIwup7RlNi8LO22FJ3OT1DVCA6RQlNIyUhW2BIXjlXfyRtTUw=&auth_key=5cca72523617fcb532ae7fe72d1fbbb3&vid=wxv_2938902191115894787&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
-## **|****_三、ChatGPT职场篇：智能函数，搞定Excel分析_**
+## **|_三、ChatGPT职场篇：智能函数，搞定Excel分析_**
 
 第二个实操案例，主要实操演示如何借助ChatGPT生成Excel的函数，帮助我们提升数据分析的效率。
 
 这比我们自己去手写函数，效率要高很多，对于不懂函数的朋友而言简直是福音。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSrOaIoaqYzwic0UmcHjMPj0qrXDEAhMNlPicZ8DlqVByMEl13AZ3sDwTA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 Excel函数是一种用于计算、处理和分析数据的预定义公式或命令，它们可以帮助用户自动执行各种数学、统计、逻辑和文本操作。
 
@@ -306,10 +306,10 @@ ChatGPT造数
 构造分析函数
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-
+![视频](http://mpvideo.qpic.cn/0bc3yuabsaaahmag4rdlmnsfbroddhcqagia.f10002.mp4?dis_k=e02863dbb8116f8af20797ea4be14c37&dis_t=1685714185&play_scene=10120&auth_info=aOC6nOB0QlRg+bO33wB3bjkXASA9El0Rd3EhXjUbDz9ZeSdsHUc=&auth_key=f1f1fdb78e37e23af09f1e28c6b39d0e&vid=wxv_2938905179607826435&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
-## **|**_**四、ChatGPT创作篇：三步写出高赞小红书文案**_
+## **|_四、ChatGPT创作篇：三步写出高赞小红书文案_**
 
 第四部分我给大家讲一下如何用ChatGPT写出高赞的小红书文案。
 
@@ -332,7 +332,7 @@ ___
 
 补充完行业knowhow的内容，然后我们再回过来看写好一个平台的文案到底有多难？其实就是分三步。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwS2Sd3Vxz6Fj16r3ZrLQw1HsFiaVWv2781vWZKtOFBVWDapYGSfQMp1tQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 第一定位平台，比如要写的是朋友圈文案，那这个平台就是朋友圈；要写小红书，那我们就可能要去了解一下小红书的一些规则和它内容呈现的形式。
 
@@ -341,10 +341,10 @@ ___
 第三步将高赞的内容提炼成框架，然后写成提示文本（Prompt），让ChatGPT仿照着写出更多的文案。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-
+![视频](http://mpvideo.qpic.cn/0bc36uaaiaaayeah3wdlizsfb5odat2qabaa.f10002.mp4?dis_k=debaa2f64a7ff03c390d03f5bee1945b&dis_t=1685714185&play_scene=10120&auth_info=MZDysJN7QAFr+eC+2wMjOD4XAS1qFAgQIiF4CTQZW2kAf3A8S0w=&auth_key=adb53e54f4023430a5fe15aee07e761a&vid=wxv_2938910389218607106&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
-## **|****_五、AI已来：普通人与时代持续同频的5点思考_**
+## **|_五、AI已来：普通人与时代持续同频的5点思考_**
 
 最后，和大家分享一下我一直践行的三个思维模型，包含5个要点。分别是：逆向思维、实验思维和“三差”思维。
 
