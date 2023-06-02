@@ -266,7 +266,7 @@ Google hacking（谷歌黑客）是一种使用Google搜索引擎的高级搜索
 接下来我以实际的案例来演示一下如何能快速的去定位到我们想要的资料。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0b2eziaaqaaaqyah6bdlofsfbswdbdfaacaa.f10002.mp4?dis_k=fe9c4f8873f2e2fe21a84d426c849f3c&dis_t=1685715447&play_scene=10120&auth_info=AoqajbwIPFQd/svo83QlVlxxOxhYGHwnYFI3GU9iWX09PxZDMjtJbjc1GmVtQGIVVn8/EFFD&auth_key=02179dc8794b3a1d45273cba2af9f968&vid=wxv_2938902191115894787&format_id=10002&support_redirect=0&mmversion=false)
+[视频](http://mpvideo.qpic.cn/0b2eziaaqaaaqyah6bdlofsfbswdbdfaacaa.f10002.mp4?dis_k=fe9c4f8873f2e2fe21a84d426c849f3c&dis_t=1685715447&play_scene=10120&auth_info=AoqajbwIPFQd/svo83QlVlxxOxhYGHwnYFI3GU9iWX09PxZDMjtJbjc1GmVtQGIVVn8/EFFD&auth_key=02179dc8794b3a1d45273cba2af9f968&vid=wxv_2938902191115894787&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_三、ChatGPT职场篇：智能函数，搞定Excel分析_**
@@ -306,7 +306,7 @@ ChatGPT造数
 构造分析函数
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0bc3yuabsaaahmag4rdlmnsfbroddhcqagia.f10002.mp4?dis_k=07c568feec86d6470b9f9325080c0890&dis_t=1685715447&play_scene=10120&auth_info=BYHx66IBYl5OqJmypXZ7CAEja0ZcGXh1MlBkQRFvDns6OU1LZTIXZGRjSD87QjxLCy1vTlVC&auth_key=1cc15dc4cc1e0762605d638053dea307&vid=wxv_2938905179607826435&format_id=10002&support_redirect=0&mmversion=false)
+[视频](http://mpvideo.qpic.cn/0bc3yuabsaaahmag4rdlmnsfbroddhcqagia.f10002.mp4?dis_k=07c568feec86d6470b9f9325080c0890&dis_t=1685715447&play_scene=10120&auth_info=BYHx66IBYl5OqJmypXZ7CAEja0ZcGXh1MlBkQRFvDns6OU1LZTIXZGRjSD87QjxLCy1vTlVC&auth_key=1cc15dc4cc1e0762605d638053dea307&vid=wxv_2938905179607826435&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_四、ChatGPT创作篇：三步写出高赞小红书文案_**
@@ -341,7 +341,7 @@ ___
 第三步将高赞的内容提炼成框架，然后写成提示文本（Prompt），让ChatGPT仿照着写出更多的文案。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0bc36uaaiaaayeah3wdlizsfb5odat2qabaa.f10002.mp4?dis_k=a32a0be41c52f2c12507214ee676eedd&dis_t=1685715447&play_scene=10120&auth_info=Vf7WjetQPwMa+Z3j8XAhC1B3a0tYG3wiNFIzSEBkDH1qbENMMGdKOTAyTG5vRGZIWnlvQ1FA&auth_key=5676d6484c5135115f71de95408bb444&vid=wxv_2938910389218607106&format_id=10002&support_redirect=0&mmversion=false)
+[视频](http://mpvideo.qpic.cn/0bc36uaaiaaayeah3wdlizsfb5odat2qabaa.f10002.mp4?dis_k=a32a0be41c52f2c12507214ee676eedd&dis_t=1685715447&play_scene=10120&auth_info=Vf7WjetQPwMa+Z3j8XAhC1B3a0tYG3wiNFIzSEBkDH1qbENMMGdKOTAyTG5vRGZIWnlvQ1FA&auth_key=5676d6484c5135115f71de95408bb444&vid=wxv_2938910389218607106&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_五、AI已来：普通人与时代持续同频的5点思考_**
