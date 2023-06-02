@@ -266,7 +266,7 @@ Google hacking（谷歌黑客）是一种使用Google搜索引擎的高级搜索
 接下来我以实际的案例来演示一下如何能快速的去定位到我们想要的资料。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0b2eziaaqaaaqyah6bdlofsfbswdbdfaacaa.f10002.mp4?dis_k=9df83f73d672763ea097807acf1d4ddc&dis_t=1685714185&play_scene=10120&auth_info=ZoqIwup7RlNi8LO22FJ3OT1DVCA6RQlNIyUhW2BIXjlXfyRtTUw=&auth_key=5cca72523617fcb532ae7fe72d1fbbb3&vid=wxv_2938902191115894787&format_id=10002&support_redirect=0&mmversion=false)
+![视频](http://mpvideo.qpic.cn/0b2eziaaqaaaqyah6bdlofsfbswdbdfaacaa.f10002.mp4?dis_k=fe9c4f8873f2e2fe21a84d426c849f3c&dis_t=1685715447&play_scene=10120&auth_info=AoqajbwIPFQd/svo83QlVlxxOxhYGHwnYFI3GU9iWX09PxZDMjtJbjc1GmVtQGIVVn8/EFFD&auth_key=02179dc8794b3a1d45273cba2af9f968&vid=wxv_2938902191115894787&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_三、ChatGPT职场篇：智能函数，搞定Excel分析_**
@@ -306,7 +306,7 @@ ChatGPT造数
 构造分析函数
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0bc3yuabsaaahmag4rdlmnsfbroddhcqagia.f10002.mp4?dis_k=e02863dbb8116f8af20797ea4be14c37&dis_t=1685714185&play_scene=10120&auth_info=aOC6nOB0QlRg+bO33wB3bjkXASA9El0Rd3EhXjUbDz9ZeSdsHUc=&auth_key=f1f1fdb78e37e23af09f1e28c6b39d0e&vid=wxv_2938905179607826435&format_id=10002&support_redirect=0&mmversion=false)
+![视频](http://mpvideo.qpic.cn/0bc3yuabsaaahmag4rdlmnsfbroddhcqagia.f10002.mp4?dis_k=07c568feec86d6470b9f9325080c0890&dis_t=1685715447&play_scene=10120&auth_info=BYHx66IBYl5OqJmypXZ7CAEja0ZcGXh1MlBkQRFvDns6OU1LZTIXZGRjSD87QjxLCy1vTlVC&auth_key=1cc15dc4cc1e0762605d638053dea307&vid=wxv_2938905179607826435&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_四、ChatGPT创作篇：三步写出高赞小红书文案_**
@@ -341,20 +341,20 @@ ___
 第三步将高赞的内容提炼成框架，然后写成提示文本（Prompt），让ChatGPT仿照着写出更多的文案。
 
 _（实操演示的文字表述较为冗长，可以直接观看直播节选片段）_
-![视频](http://mpvideo.qpic.cn/0bc36uaaiaaayeah3wdlizsfb5odat2qabaa.f10002.mp4?dis_k=debaa2f64a7ff03c390d03f5bee1945b&dis_t=1685714185&play_scene=10120&auth_info=MZDysJN7QAFr+eC+2wMjOD4XAS1qFAgQIiF4CTQZW2kAf3A8S0w=&auth_key=adb53e54f4023430a5fe15aee07e761a&vid=wxv_2938910389218607106&format_id=10002&support_redirect=0&mmversion=false)
+![视频](http://mpvideo.qpic.cn/0bc36uaaiaaayeah3wdlizsfb5odat2qabaa.f10002.mp4?dis_k=a32a0be41c52f2c12507214ee676eedd&dis_t=1685715447&play_scene=10120&auth_info=Vf7WjetQPwMa+Z3j8XAhC1B3a0tYG3wiNFIzSEBkDH1qbENMMGdKOTAyTG5vRGZIWnlvQ1FA&auth_key=5676d6484c5135115f71de95408bb444&vid=wxv_2938910389218607106&format_id=10002&support_redirect=0&mmversion=false)
 ___
 
 ## **|_五、AI已来：普通人与时代持续同频的5点思考_**
 
 最后，和大家分享一下我一直践行的三个思维模型，包含5个要点。分别是：逆向思维、实验思维和“三差”思维。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSZFAzcGZTIyOhictHvbBgOLo7EZ3XsTx2gibib2DicCTWziaXNt6fEOPuYng/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 **逆向思维，它其实是一个工程的概念，叫做逆向工程。**
 
 是指通过对产品、软件、系统或设备进行逆向分析、解构和破解，以了解其内部构造、工作原理、设计意图等信息的过程，也就是我们常说的拆解案例。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSMBnic9lPwRXQgVBerWqPP2iaVDDxtBcnhPxkeNo55sQwARYU8zqHtcbQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 前面总结的trick法则，也是在广泛研究的基础之上，逆向拆解出这些要素，然后再拼凑起来，去验证是否能生成想要的结果。
 
@@ -370,7 +370,7 @@ ___
 
 想要用好ChatGPT，就要学会灵活编排提示文本（Prompt）的内容，这种编排的过程和创新实验很类似。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSjsia1HBb1aicUick6QotplUic3vKW58py4LYt0zOq91zicaEVdFnJoWibvpQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 实验的本意是指根据科学研究的目的，在尽可能保障外界因素不变的情况下，通过控制要素变量，使某一事物或过程再现，从而去认识和发现自然规律。
 
@@ -384,7 +384,7 @@ ___
 
 配图是第一期课程中3个学员的作业，教给他们的是同一套方法，但是生成出来的图画内容确实是有明显差异的，但是总体质量尚可。
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwSSQIxFLF66Yb5PZRHgTK0ItMsQebHkB34ibFB0SpnVz3ACMv7zaBRQog/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 他们也都是零基础，只是在同一个框架下替换了不同的关键词，每个人创作出来的内容都不一样。
 
@@ -394,7 +394,7 @@ ___
 
 **最后再说一下“三差”思维，包含信息差、认知差和执行差。其实是想告诉大家，做行动的巨人，坚持知行合一。**
 
-![图片](data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='1px' height='1px' viewBox='0 0 1 1' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctitle%3E%3C/title%3E%3Cg stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' fill-opacity='0'%3E%3Cg transform='translate(-249.000000, -126.000000)' fill='%23FFFFFF'%3E%3Crect x='249' y='126' width='1' height='1'%3E%3C/rect%3E%3C/g%3E%3C/g%3E%3C/svg%3E)
+![图片](https://mmbiz.qpic.cn/mmbiz_png/WBbxMIpxXDo3JhpOpoz9zqN7ibeeic7cwStJpyYppf0TG3w2icdkbBmPctap4SPPlTlPxXbBZ31d1ya7bWzQ1HpQQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
 
 信息差（Information Gap）是指人们在获取信息方面存在的差异，即不同个体之间对同一信息的了解程度不同。
 
